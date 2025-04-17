@@ -111,16 +111,6 @@ With regular updates and compliance with emerging healthcare trends, ArogyaMithr
 
 ---
 
-## 🚀 Screenshots
-
-<p float="left">
-  <img src="screenshots/launch_screen.png" width="200" />
-  <img src="screenshots/signin.png" width="200" />
-  <img src="screenshots/home.png" width="200" />
-  <img src="screenshots/appointment.png" width="200" />
-</p>
-
----
 
 ## 📣 License
 
